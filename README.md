@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rmullick
-- My thought about programming "Code is written once, probably it will be read more but certainly it will be executed even more. So know the priority!"
+- "Code is written once, probably it will be read more but certainly it will be executed even more. So know the priority!" - Rakib
 
 
 <!---
