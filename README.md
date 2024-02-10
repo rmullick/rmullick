@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rmullick
-- "Code is written once, probably it will be read more but certainly it will be executed even more. So know the priority!" - Rakib
+- 👋 Hi, I’m @rmullick. Below are my own quote:
+- "United by philosophy, decentralized by style." -mrhm
+- "Code is written once, probably it will be read more but certainly it will be executed even more. So know the priority!" - mrhm
 
 
 <!---
